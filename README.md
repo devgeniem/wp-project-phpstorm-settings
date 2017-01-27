@@ -3,9 +3,10 @@
 These are the default PhpStorm settings for `.idea` folder used by Geniem.
 
 ## Contents
-Theis will configure:
-* composer.json location and composer path /usr/local/bin/composer
+This will configure:
+* composer.json location and composer path with `/usr/local/bin/composer`
 * remote server configuration for `wordpress.test` for xdebug
+    * This includes the local code mapping into `/var/www/project` inside container
     * Remember to regex replace this for the project address e.g `wordpress.test` -> `client.test`
 * WordPress path
 
