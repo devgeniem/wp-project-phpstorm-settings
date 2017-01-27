@@ -1,4 +1,4 @@
-# PhpStorm settings for [wp-project](https://github.com/devgeniem/wp-project)
+# PhpStorm settings for [devgeniem/wp-project](https://github.com/devgeniem/wp-project)
 
 These are the default PhpStorm settings for `.idea` folder used by Geniem.
 
